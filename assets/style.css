@@ -4,9 +4,9 @@
 
 .navbar-light .navbar-brand {
     color: white
-}
+} 
 
-.navbar-dark {
+ .navbar-dark {
     border-color: transparent !important;
 }
 
@@ -58,6 +58,10 @@ body {
 
 .footer {
     background-color: black;
+}
+
+#ed-block {
+    margin-top: -20px;
 }
 
 @media (max-width: 767px) {
